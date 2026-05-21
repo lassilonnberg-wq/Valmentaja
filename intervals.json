@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T23:56:39.343144",
+  "generated_at": "2026-05-21T11:58:47.995660",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1147,6 +1147,27 @@
           "zone": 1,
           "training_load": 40.129257,
           "decoupling": -26.25352
+        }
+      ]
+    },
+    {
+      "activity_id": "i150262083",
+      "date": "2026-05-21",
+      "type": "Ride",
+      "name": "Horten Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3104,
+          "avg_power": 165,
+          "max_power": 675,
+          "avg_hr": 123,
+          "max_hr": 154,
+          "avg_cadence": 86.18947,
+          "zone": 1,
+          "training_load": 28.604391,
+          "decoupling": 8.130011
         }
       ]
     }
