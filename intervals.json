@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T10:35:40.326969",
+  "generated_at": "2026-05-22T17:28:13.224753",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1216,6 +1216,54 @@
           "zone": 1,
           "training_load": 10.216468,
           "decoupling": 17.889193
+        }
+      ]
+    },
+    {
+      "activity_id": "i150590432",
+      "date": "2026-05-22",
+      "type": "Ride",
+      "name": "Horten Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": [
+        "1x 3m45s 246w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4669,
+          "avg_power": 177,
+          "max_power": 600,
+          "avg_hr": 120,
+          "max_hr": 147,
+          "avg_cadence": 81.98409,
+          "zone": 2,
+          "training_load": 47.121605,
+          "decoupling": 0.9855338
+        },
+        {
+          "type": "WORK",
+          "label": "225s@246w93rpm",
+          "duration_secs": 225,
+          "avg_power": 246,
+          "max_power": 385,
+          "avg_hr": 135,
+          "max_hr": 143,
+          "avg_cadence": 92.67555,
+          "zone": 3,
+          "training_load": 3.574463,
+          "decoupling": 3.8730433
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 389,
+          "avg_power": 244,
+          "max_power": 709,
+          "avg_hr": 144,
+          "max_hr": 158,
+          "avg_cadence": 86.946014,
+          "zone": 3,
+          "training_load": 7.1698537,
+          "decoupling": -12.536601
         }
       ]
     }
