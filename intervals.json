@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:56:41.149188",
+  "generated_at": "2026-05-29T19:55:22.807239",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1025,6 +1025,53 @@
           "zone": 1,
           "training_load": 54.316406,
           "decoupling": -4.703444
+        }
+      ]
+    },
+    {
+      "activity_id": "i152576212",
+      "date": "2026-05-29",
+      "type": "Ride",
+      "name": "Helsinki - 3x3x12 tunti jonka toinen puolikas sptintti joka 4",
+      "interval_summary": [
+        "1x 10s 483w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2275,
+          "avg_power": 172,
+          "max_power": 1061,
+          "avg_hr": 117,
+          "max_hr": 156,
+          "avg_cadence": 71.320625,
+          "zone": 1,
+          "training_load": 23.040527,
+          "decoupling": -22.47157
+        },
+        {
+          "type": "WORK",
+          "label": "10s@483w81rpm",
+          "duration_secs": 10,
+          "avg_power": 483,
+          "max_power": 529,
+          "avg_hr": 122,
+          "max_hr": 126,
+          "avg_cadence": 81.0,
+          "zone": 7,
+          "training_load": 0.16549751,
+          "decoupling": 12.006192
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 11828,
+          "avg_power": 187,
+          "max_power": 1464,
+          "avg_hr": 118,
+          "max_hr": 164,
+          "avg_cadence": 73.95334,
+          "zone": 2,
+          "training_load": 79.18253
         }
       ]
     }
