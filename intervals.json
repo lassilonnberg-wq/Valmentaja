@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-06-02T22:13:45.785183",
+  "generated_at": "2026-06-03T16:02:23.536170",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i149690889",
-      "date": "2026-05-19",
-      "type": "Ride",
-      "name": "\u00c5mot Maantiepy\u00f6r\u00e4ily",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3475,
-          "avg_power": 146,
-          "max_power": 404,
-          "avg_hr": 107,
-          "max_hr": 144,
-          "avg_cadence": 79.43515,
-          "zone": 1,
-          "training_load": 28.328789,
-          "decoupling": -24.174992
-        }
-      ]
-    },
     {
       "activity_id": "i150262083",
       "date": "2026-05-21",
