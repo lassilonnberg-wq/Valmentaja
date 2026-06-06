@@ -1,3 +1,5 @@
+
+
 # Athlete Dossier
 
 ## Identity
@@ -6,10 +8,10 @@
 - **Training environment:** Outdoor preferred; indoor trainer in winter
 
 ## Physiology
-- **FTP:** 310W
-- **Resting HR:** 38 bpm
+- **FTP:** 320 W
+- **Resting HR:** 37 bpm
 - **Max HR:** 187 bpm
-- **LTHR:** Unknown
+- **LTHR:** 164 bpm (cycling)
 - **Zones:** Use Intervals.icu defaults unless overridden
 
 ## Training Load
@@ -26,8 +28,9 @@
 ### Target Events
 | Event | Date | Priority |
 |-------|------|----------|
-| SM-kilpailut | Week 24, 2026 | A |
-| SM-kilpailut | ~Week 24, 2027 | A |
+| Porvoonajot | 14.6.2026 | B |
+| Lavian Ajot | 26.7.2026 | B |
+| SM-kilpailut | Week 24, 2027 | A |
 
 ## Health & Limitations
 - No current injuries
@@ -41,7 +44,11 @@
 
 ## Notes for Coach
 - Strong athletic background (30 years) — high trainability and body awareness
-- SM-kilpailut week 24 is the A-event — periodization must peak there
+- SM-kilpailut 2027 is the primary A-event — periodization must peak there
+- Porvoonajot and Lavian Ajot are B-events on the 2026 race calendar
 - Monitor hamstring recruitment especially in high-power efforts and fatigue states
 - Structured plan preferred — provide specific targets (watts, duration, zones)
-- Next year's SM is secondary A-event — build long-term development arc
+- Taper phases have been intermittent due to travel and varied training locations — rely on coach program for race week structure; AI layer provides analytical overlay
+- SM-kilpailut not yet added to Intervals.icu — add to enable automatic taper detection
+
+---
