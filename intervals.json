@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-06-10T23:08:59.292607",
+  "generated_at": "2026-06-11T01:41:34.213970",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i151955105",
-      "date": "2026-05-27",
-      "type": "Ride",
-      "name": "Horten Py\u00f6r\u00e4ily",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 7061,
-          "avg_power": 134,
-          "max_power": 898,
-          "avg_hr": 102,
-          "max_hr": 136,
-          "avg_cadence": 77.45717,
-          "zone": 1,
-          "training_load": 54.316406,
-          "decoupling": -4.703444
-        }
-      ]
-    },
     {
       "activity_id": "i152576212",
       "date": "2026-05-29",
