@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T16:27:55.391156",
+  "generated_at": "2026-06-15T20:04:03.806425",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3716,6 +3716,27 @@
           "avg_cadence": 41.845604,
           "zone": 1,
           "training_load": 5.0097437
+        }
+      ]
+    },
+    {
+      "activity_id": "i157572299",
+      "date": "2026-06-15",
+      "type": "GravelRide",
+      "name": "Horten Sora/p\u00e4\u00e4llyst\u00e4m\u00e4t\u00f6n, py\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2860,
+          "avg_power": 121,
+          "max_power": 388,
+          "avg_hr": 102,
+          "max_hr": 122,
+          "avg_cadence": 74.42895,
+          "zone": 1,
+          "training_load": 13.624632,
+          "decoupling": -4.4552784
         }
       ]
     }
