@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T19:14:19.679247",
+  "generated_at": "2026-06-17T21:24:32.007735",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3718,6 +3718,53 @@
           "zone": 1,
           "training_load": 13.624632,
           "decoupling": -4.4552784
+        }
+      ]
+    },
+    {
+      "activity_id": "i158181531",
+      "date": "2026-06-17",
+      "type": "GravelRide",
+      "name": "Horten Sora/p\u00e4\u00e4llyst\u00e4m\u00e4t\u00f6n, py\u00f6r\u00e4ily",
+      "interval_summary": [
+        "1x 32s 560w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4387,
+          "avg_power": 208,
+          "max_power": 914,
+          "avg_hr": 122,
+          "max_hr": 142,
+          "avg_cadence": 85.30994,
+          "zone": 2,
+          "training_load": 54.30545
+        },
+        {
+          "type": "WORK",
+          "label": "32s@560w74rpm",
+          "duration_secs": 32,
+          "avg_power": 560,
+          "max_power": 726,
+          "avg_hr": 116,
+          "max_hr": 117,
+          "avg_cadence": 73.90625,
+          "zone": 7,
+          "training_load": 1.8288281,
+          "decoupling": 4.7216144
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1617,
+          "avg_power": 185,
+          "max_power": 545,
+          "avg_hr": 115,
+          "max_hr": 147,
+          "avg_cadence": 80.67647,
+          "zone": 2,
+          "training_load": 20.337168,
+          "decoupling": 7.694384
         }
       ]
     }
