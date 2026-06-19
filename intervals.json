@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:33:06.792097",
+  "generated_at": "2026-06-19T18:23:47.748792",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3765,6 +3765,26 @@
           "zone": 2,
           "training_load": 20.337168,
           "decoupling": 7.694384
+        }
+      ]
+    },
+    {
+      "activity_id": "i158673905",
+      "date": "2026-06-19",
+      "type": "GravelRide",
+      "name": "Drammen Sora/p\u00e4\u00e4llyst\u00e4m\u00e4t\u00f6n, py\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 16229,
+          "avg_power": 144,
+          "max_power": 687,
+          "avg_hr": 114,
+          "max_hr": 142,
+          "avg_cadence": 75.13788,
+          "zone": 1,
+          "training_load": 106.226944
         }
       ]
     }
