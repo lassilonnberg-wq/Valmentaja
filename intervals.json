@@ -1,84 +1,10 @@
 {
-  "generated_at": "2026-06-22T23:43:34.845020",
+  "generated_at": "2026-06-23T01:49:33.944463",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i155343905",
-      "date": "2026-06-08",
-      "type": "GravelRide",
-      "name": "Oslo Sora/p\u00e4\u00e4llyst\u00e4m\u00e4t\u00f6n, py\u00f6r\u00e4ily",
-      "interval_summary": [
-        "1x 68s 344w",
-        "1x 10s 664w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 8646,
-          "avg_power": 144,
-          "max_power": 876,
-          "avg_hr": 108,
-          "max_hr": 141,
-          "avg_cadence": 73.752655,
-          "zone": 1,
-          "training_load": 68.13281,
-          "decoupling": -20.753448
-        },
-        {
-          "type": "WORK",
-          "label": "68s@344w82rpm",
-          "duration_secs": 68,
-          "avg_power": 344,
-          "max_power": 420,
-          "avg_hr": 141,
-          "max_hr": 145,
-          "avg_cadence": 82.07353,
-          "zone": 5,
-          "training_load": 2.008789,
-          "decoupling": -0.034939803
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 103,
-          "avg_power": 276,
-          "max_power": 566,
-          "avg_hr": 138,
-          "max_hr": 144,
-          "avg_cadence": 84.81554,
-          "zone": 3,
-          "training_load": 2.3014343,
-          "decoupling": -14.989957
-        },
-        {
-          "type": "WORK",
-          "label": "10s@664w70rpm",
-          "duration_secs": 10,
-          "avg_power": 664,
-          "max_power": 811,
-          "avg_hr": 141,
-          "max_hr": 145,
-          "avg_cadence": 70.2,
-          "zone": 7,
-          "training_load": 0.44935167,
-          "decoupling": 17.296694
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3935,
-          "avg_power": 122,
-          "max_power": 797,
-          "avg_hr": 99,
-          "max_hr": 152,
-          "avg_cadence": 54.187366,
-          "zone": 1,
-          "training_load": 35.26795,
-          "decoupling": 10.203109
-        }
-      ]
-    },
     {
       "activity_id": "i156425788",
       "date": "2026-06-11",
