@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:40:39.481584",
+  "generated_at": "2026-06-24T16:56:02.830132",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3839,6 +3839,80 @@
           "zone": 1,
           "training_load": 8.511902,
           "decoupling": 14.492894
+        }
+      ]
+    },
+    {
+      "activity_id": "i160043493",
+      "date": "2026-06-24",
+      "type": "GravelRide",
+      "name": "Horten - tunti 4 min sprint splitill\u00e4",
+      "interval_summary": [
+        "1x 3m26s 248w",
+        "1x 10s 574w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1785,
+          "avg_power": 208,
+          "max_power": 842,
+          "avg_hr": 128,
+          "max_hr": 152,
+          "avg_cadence": 84.43601,
+          "zone": 2,
+          "training_load": 25.485678,
+          "decoupling": -21.148064
+        },
+        {
+          "type": "WORK",
+          "label": "206s@248w89rpm",
+          "duration_secs": 206,
+          "avg_power": 248,
+          "max_power": 528,
+          "avg_hr": 143,
+          "max_hr": 148,
+          "avg_cadence": 88.99029,
+          "zone": 3,
+          "training_load": 3.4646826,
+          "decoupling": 3.762138
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1201,
+          "avg_power": 222,
+          "max_power": 960,
+          "avg_hr": 141,
+          "max_hr": 158,
+          "avg_cadence": 78.2975,
+          "zone": 2,
+          "training_load": 20.491049,
+          "decoupling": -10.540366
+        },
+        {
+          "type": "WORK",
+          "label": "10s@574w82rpm",
+          "duration_secs": 10,
+          "avg_power": 574,
+          "max_power": 692,
+          "avg_hr": 153,
+          "max_hr": 154,
+          "avg_cadence": 81.6,
+          "zone": 7,
+          "training_load": 0.103149414,
+          "decoupling": 0.5470629
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2806,
+          "avg_power": 217,
+          "max_power": 1028,
+          "avg_hr": 137,
+          "max_hr": 164,
+          "avg_cadence": 81.40594,
+          "zone": 2,
+          "training_load": 48.16547,
+          "decoupling": 8.5000105
         }
       ]
     }
