@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T11:33:09.522437",
+  "generated_at": "2026-06-26T13:50:03.057229",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -3564,6 +3564,27 @@
           "zone": 2,
           "training_load": 48.16547,
           "decoupling": 8.5000105
+        }
+      ]
+    },
+    {
+      "activity_id": "i160491327",
+      "date": "2026-06-26",
+      "type": "Ride",
+      "name": "Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 11007,
+          "avg_power": 148,
+          "max_power": 398,
+          "avg_hr": 120,
+          "max_hr": 145,
+          "avg_cadence": 75.408035,
+          "zone": 1,
+          "training_load": 84.816925,
+          "decoupling": -10.983183
         }
       ]
     }
