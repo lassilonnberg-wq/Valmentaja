@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T15:04:30.350050",
+  "generated_at": "2026-06-29T17:48:05.657936",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1461,6 +1461,27 @@
           "zone": 1,
           "training_load": 8.511902,
           "decoupling": 14.492894
+        }
+      ]
+    },
+    {
+      "activity_id": "i161257134",
+      "date": "2026-06-29",
+      "type": "Ride",
+      "name": "Kirkkonummi - tunti 4 min sprint splitill\u00e4",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 7905,
+          "avg_power": 201,
+          "max_power": 1293,
+          "avg_hr": 128,
+          "max_hr": 150,
+          "avg_cadence": 85.58138,
+          "zone": 2,
+          "training_load": 105.30093,
+          "decoupling": -3.4895425
         }
       ]
     }
