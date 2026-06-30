@@ -70,11 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-<<<<<<< Updated upstream
-    "last_updated": "2026-06-30T13:25:33.423472",
-=======
     "last_updated": "2026-06-30T15:47:57.396040",
->>>>>>> Stashed changes
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -267,11 +263,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-<<<<<<< Updated upstream
-      "steps": 5950,
-=======
       "steps": 6280,
->>>>>>> Stashed changes
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -662,13 +654,8 @@
     "w_prime_kj": 24.7,
     "p_max": 1544,
     "power_model_source": "wellness.sportInfo",
-<<<<<<< Updated upstream
-    "vo2max": null,
-    "calculation_timestamp": "2026-06-30T13:25:33.422518",
-=======
     "vo2max": 61.0,
     "calculation_timestamp": "2026-06-30T15:47:57.395051",
->>>>>>> Stashed changes
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -4762,11 +4749,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-<<<<<<< Updated upstream
-      "steps": 5950,
-=======
       "steps": 6280,
->>>>>>> Stashed changes
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
