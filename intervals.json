@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T04:34:35.677583",
+  "generated_at": "2026-06-30T08:21:47.569287",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1482,6 +1482,27 @@
           "zone": 2,
           "training_load": 105.30093,
           "decoupling": -3.4895425
+        }
+      ]
+    },
+    {
+      "activity_id": "i161390443",
+      "date": "2026-06-30",
+      "type": "Ride",
+      "name": "Espoo Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4745,
+          "avg_power": 144,
+          "max_power": 651,
+          "avg_hr": 112,
+          "max_hr": 132,
+          "avg_cadence": 80.00323,
+          "zone": 1,
+          "training_load": 37.35718,
+          "decoupling": -6.865322
         }
       ]
     }
