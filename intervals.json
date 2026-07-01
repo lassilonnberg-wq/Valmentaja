@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T13:27:08.011549",
+  "generated_at": "2026-07-01T16:08:08.502494",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -1424,6 +1424,27 @@
           "zone": 2,
           "training_load": 48.16547,
           "decoupling": 8.5000105
+        }
+      ]
+    },
+    {
+      "activity_id": "i161786644",
+      "date": "2026-07-01",
+      "type": "Ride",
+      "name": "Lohja Maantiepy\u00f6r\u00e4ily",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 8719,
+          "avg_power": 148,
+          "max_power": 978,
+          "avg_hr": 100,
+          "max_hr": 131,
+          "avg_cadence": 79.60485,
+          "zone": 1,
+          "training_load": 67.12566,
+          "decoupling": -9.775362
         }
       ]
     }
